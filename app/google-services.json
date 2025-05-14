@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396254399315",
+    "project_id": "mydisneyapp-e4e6a",
+    "storage_bucket": "mydisneyapp-e4e6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396254399315:android:4cc4c68f89258654606fa6",
+        "android_client_info": {
+          "package_name": "com.example.mydisneyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAByzkqfYoIr1iUMPXdf9AB46lB98c7t3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
