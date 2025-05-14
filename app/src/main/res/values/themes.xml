@@ -1,0 +1,10 @@
+<resources>
+    <style name="Base.Theme.MyDisneyApp" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+    <style name="Theme.MyDisneyApp" parent="Base.Theme.MyDisneyApp" />
+    <style name="Toolbar.TitleLarge" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">26sp</item>
+        <item name="android:fontFamily">@font/disney</item>
+    </style>
+
+</resources>
